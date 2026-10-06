@@ -1,0 +1,11 @@
+# Databricks
+.databricks/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
