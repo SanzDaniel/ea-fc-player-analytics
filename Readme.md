@@ -152,26 +152,21 @@ ea-fc-player-analytics/
 │    │ ├── fact_player_facets.py
 
 
-├── images/
+├── data/
 
-│ ├── pbix/
+│ ├── *.csv
 
-│    │ ├── overview.png
 
-│    │ ├── players.png
+├── pipeline/
 
-│    │ ├── playstyles.png
-
-│    │ ├── Model.png
-
-│ ├── databricks/
-
-│    │ ├── pipeline.png
+│    │ ├── pipeline.md
 
 
 └── powerbi/
 
-└── EA_FC27_Player_Analytics.pbix
+│    │ ├── powerbi.md
+
+
 
 ---
 
